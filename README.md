@@ -51,6 +51,9 @@ DB_HOST # Адрес для подключение к БД
 
 ## Общая схема работы
 
+![dia](https://user-images.githubusercontent.com/36763228/87179139-e9dc0a80-c2e6-11ea-8052-b980ae536fa0.png)
+
+
 ## Зависимости
 Необходимые библиотеки для python:
 + Flask==1.1.1
