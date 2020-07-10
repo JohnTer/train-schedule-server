@@ -41,13 +41,20 @@ DB_HOST # Адрес для подключение к БД
 ## Пример работы
 ### Страница авторизации
 
+![login](https://user-images.githubusercontent.com/36763228/87179235-12640480-c2e7-11ea-966d-78220f16050b.png)
 
 ### Поиск рейсов
 
+![search](https://user-images.githubusercontent.com/36763228/87179269-20198a00-c2e7-11ea-90d4-3d1bbf9b6a69.png)
+
 ### Результат поиска
+
+![trainlist](https://user-images.githubusercontent.com/36763228/87179343-417a7600-c2e7-11ea-94a0-4f71cc48d5e8.png)
+
 
 ### Данные о рейсе
 
+![train](https://user-images.githubusercontent.com/36763228/87179300-2f003c80-c2e7-11ea-9cb4-895a2b7adf03.png)
 
 ## Общая схема работы
 
